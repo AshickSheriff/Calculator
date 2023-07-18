@@ -14,7 +14,6 @@ function calculate(){
 }
 
 function clr(){
-    console.log("hello");
     os.value = "";
 }
 
